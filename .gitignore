@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows (Kotlin)/task/build/
+/Bulls and Cows (Kotlin)/task/out/
+/Bulls and Cows (Kotlin)/task/out/production/classes/
